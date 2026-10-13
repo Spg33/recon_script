@@ -13,7 +13,7 @@
 #   ./recon_script.sh 10.10.10.5
 #   ./recon_script.sh example.com
 #
-# Author:  spanos131313
+# Author:  Spg33
 # License: MIT
 #
 
